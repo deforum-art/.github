@@ -1,4 +1,5 @@
-## Deforum
+## deforum
+### We are a community of AI image synthesis developers, enthusiasts, and artists.
 
 <!--
 
