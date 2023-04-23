@@ -22,3 +22,11 @@ Here are some links to resources to help you get started and learn more about AI
 ## Contact
 
 If you have any questions or need help join us on [Deforum's Discord server](https://discord.gg/deforum). Join us on [Twitter](https://twitter.com/deforum_art). Support us on [Patreon](https://www.patreon.com/deforum).
+
+---
+
+<p align="center">
+  <a href="https://star-history.com/#Torantulino/auto-gpt&Date">
+    <img src="https://api.star-history.com/svg?repos=deforum-art/deforum-for-automatic1111-webui,deforum-art/sd-webui-text2video&type=Date" alt="Star History Chart">
+  </a>
+</p>
