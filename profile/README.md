@@ -21,7 +21,7 @@ Here are some links to resources to help you get started and learn more about AI
 
 ## Contact
 
-If you have any questions or need help join us on [Deforum's Discord server](https://discord.gg/deforum). Join us on [Twitter](https://twitter.com/deforum_art). Support us on [Patreon](https://www.patreon.com/deforum).
+If you have any questions or need help join us on [Deforum's Discord server](https://discord.gg/deforum). Join us on [Twitter](https://twitter.com/deforum_art).
 
 ---
 
