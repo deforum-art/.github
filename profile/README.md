@@ -27,6 +27,6 @@ If you have any questions or need help join us on [Deforum's Discord server](htt
 
 <p align="center">
   <a href="https://star-history.com/#Torantulino/auto-gpt&Date">
-    <img src="https://api.star-history.com/svg?repos=deforum-art/deforum-for-automatic1111-webui,deforum-art/sd-webui-text2video&type=Date" alt="Star History Chart">
+    <img src="https://api.star-history.com/svg?repos=deforum/stable-diffusion,https://api.star-history.com/svg?repos=deforum-art/deforum-stable-diffusion,https://api.star-history.com/svg?repos=deforum-art/deforum-for-automatic1111-webui,deforum-art/sd-webui-text2video&type=Date" alt="Star History Chart">
   </a>
 </p>
